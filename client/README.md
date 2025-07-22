@@ -26,8 +26,12 @@ after that creating component for home page
 
 after setup sidebar
 
-
-
-
-
 ------------------------------------------------ 
+
+day 2
+
+now setup chat container -----because of use of time in chat to show i made utils file in that there is a function called formatMessageTime
+
+now its to setup rightside bar
+
+
